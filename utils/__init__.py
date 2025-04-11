@@ -1,1 +1,1 @@
-from .ClaseAbdon import DataFrameAnalyzer
+from ClaseAbdon import DataFrameAnalyzer
